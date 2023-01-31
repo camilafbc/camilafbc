@@ -9,7 +9,7 @@ Sou a Camila e através do desenvolvimento front-end busco encontrar meu lugar e
   
   ##
   
-### Ferramentas e Tecnologias:
+### Ferramentas e Linguagens:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
