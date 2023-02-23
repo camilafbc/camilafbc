@@ -9,7 +9,7 @@ Sou a Camila e através do desenvolvimento front-end busco encontrar meu lugar e
   
   ##
   
-### Ferramentas e Linguagens:
+### Ferramentas e Tecnologias:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
@@ -27,7 +27,7 @@ Sou a Camila e através do desenvolvimento front-end busco encontrar meu lugar e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/> -->
           
 </div>
 
