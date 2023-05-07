@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-  Sou a Camila e sou apaixonada por música, livros e pela língua castellana. Através do desenvolvimento frontend busco encontrar meu lugar e colaborar com o mundo, com muita disposição e criatividade ✨
+  Sou a Camila, curso Técnico em Desenvolvimento de Sistemas no Senac MG e sou apaixonada por música, livros e pela língua castellana. Através do desenvolvimento frontend busco encontrar meu lugar e colaborar com o mundo, com muita disposição e criatividade ✨
 </p>
 
   
@@ -17,12 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> 
 </div>
 
 ### Estou aprendendo:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>        
+<div>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>        
