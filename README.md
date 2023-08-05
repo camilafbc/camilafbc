@@ -2,10 +2,11 @@
 
 ## Hello! 👋
 
-Sou a Camila, curso Técnico em Desenvolvimento de Sistemas no Senac MG e Desenvolvimento FullStack JS na OneBitCode. Sou apaixonada por música, livros e pela língua castellana. Através da tecnologia busco encontrar meu lugar e colaborar com o mundo, com muita disposição e criatividade ✨
+<p>
+  Sou a Camila, curso Técnico em Desenvolvimento de Sistemas no Senac MG e Desenvolvimento FullStack JS na OneBitCode. Sou apaixonada por música, livros e pela língua castellana. Através da tecnologia busco encontrar meu lugar e colaborar com o mundo, com muita disposição e criatividade ✨
+</p>
 
 #
-
 ### Ferramentas e Tecnologias:
 
 <div align="center">
