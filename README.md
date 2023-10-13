@@ -45,8 +45,10 @@
  ##
  
  <div align="center">
-  <img  width="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafbc&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafbc&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+
+
 
   ##
   
