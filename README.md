@@ -1,13 +1,17 @@
 <img height="280px" align="right"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM5eTZoNGg5cnJuOHBycXQyenM4dWtldnN3ODRicjU4bGdibjk5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" /> 
 
-## **Hello!** 👋
+<div align="center">
+  
+  ## Hello! 👋
+  
+</div>
 
 
-  😊 Sou a Camila, desenvolvedora fullstack em formação 
+  😊 Sou a Camila, desenvolvedora fullstack em formação.
   
   📖 Cursando Técnico em Desenvolvimento de Sistemas no Senac MG e Desenvolvimento FullStack JS na OneBitCode.
   
-  ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade 
+  ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade! 
 
 
 #
@@ -37,7 +41,7 @@
 
 <div>        
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
 </div>
 
 
@@ -45,8 +49,8 @@
  ##
  
  <div>
-   <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=camilafbc&show_icons=true&theme=dracula"/>
+   <img  width="395rem" src="https://github-readme-stats.vercel.app/api?username=camilafbc&show_icons=true&theme=dracula"/>
    
-  <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafbc&layout=compact&langs_count=6&theme=dracula"/>
+  <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafbc&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
