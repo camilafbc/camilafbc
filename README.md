@@ -7,9 +7,9 @@
 </div>
 
 
-  😊 Sou a Camila, desenvolvedora fullstack em formação.
+  😊 Sou a Camila, desenvolvedora full stack em formação.
   
-  📖 Cursando Técnico em Desenvolvimento de Sistemas no Senac MG e Desenvolvimento FullStack JS na OneBitCode.
+  📖 Cursando Técnico em Desenvolvimento de Sistemas no Senac MG e Desenvolvimento Full Stack JS na OneBitCode.
   
   ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade! 
 
