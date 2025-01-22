@@ -9,7 +9,9 @@
 
   😊 Sou a Camila, desenvolvedora full stack em formação.
   
-  📖 Cursando Técnico em Desenvolvimento de Sistemas no Senac MG.
+  📖 Formada em Técnico em Desenvolvimento de Sistemas no Senac MG.
+
+  📖 Cursando CTS em Análise e Desenvolvimento de Sistemas na Unilavras.
   
   ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade! 
 
