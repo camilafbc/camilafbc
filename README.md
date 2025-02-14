@@ -2,16 +2,19 @@
 
 <div align="center">
   
-  ## Hello! 👋
+  # Olá! Eu sou a Camila! 👋
   
 </div>
 
+  💻 Desenvolvedora Full Stack apaixonada por tecnologia, aprendizado contínuo e criação de soluções eficientes.
 
-  😊 Sou a Camila, desenvolvedora full stack em formação.
+  📖 Formação:
   
-  📖 Formada em Técnico em Desenvolvimento de Sistemas no Senac MG.
-
-  📖 Cursando CTS em Análise e Desenvolvimento de Sistemas na Unilavras.
+  * Técnico em Desenvolvimento de Sistemas - Senac MG
+  * Cursando CTS em Análise e Desenvolvimento de Sistemas - Unilavras
+  
+  🚀 Experiência:
+  Atualmente, sou estagiária em Desenvolvimento de Software na Criare Tecnologia, onde atuo no desenvolvimento de interfaces, auxílio na estruturação de banco de dados e contribuo ativamente para a criação de aplicações web escaláveis.
   
   ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade! 
 
@@ -40,7 +43,6 @@
 ### Outras: 
 
 <div >
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>  
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </div>
