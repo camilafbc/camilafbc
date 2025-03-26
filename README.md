@@ -11,7 +11,7 @@
   📖 Formação:
   
   * Técnico em Desenvolvimento de Sistemas - Senac MG
-  * Cursando CTS em Análise e Desenvolvimento de Sistemas - Unilavras
+  * Cursando Curso Superior em Tecnologia em Análise e Desenvolvimento de Sistemas - Unilavras
   
   🚀 Experiência:
   Atualmente, sou estagiária em Desenvolvimento de Software na Criare Tecnologia, onde atuo no desenvolvimento de interfaces, auxílio na estruturação de banco de dados e contribuo ativamente para a criação de aplicações web escaláveis.
