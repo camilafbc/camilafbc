@@ -14,7 +14,7 @@
   * Cursando Curso Superior em Tecnologia em Análise e Desenvolvimento de Sistemas - Unilavras
   
   🚀 Experiência:
-  Atualmente, sou estagiária em Desenvolvedora Full Stack Jr. na Criare Tecnologia, onde atuo no desenvolvimento de interfaces,  estruturação de banco de dados, implementação deregras de negócio e contribuo ativamente para a criação de aplicações web escaláveis.
+  Atualmente, sou Desenvolvedora de Software Jr. na Criare Tecnologia, onde atuo no desenvolvimento de interfaces,  estruturação de banco de dados, implementação de regras de negócio e contribuo ativamente para a criação de aplicações web escaláveis.
   
   ✨ Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade! 
 
